@@ -22,6 +22,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![simulator](media/image1.png)
 
+[![](https://img.shields.io/badge/Shiny.io-Mutation--Drift%20Simutator-blue)](https://ramsesrosales.shinyapps.io/mutation_drift_simulator/)
+
 This is a small script that simulates the process of mutation drift in and constant size diploid population, the simulation plot was a modification of the [function](http://blog.phytools.org/2018/03/coalescent-genealogy-plot-in-r.html) ```coalescent.plot()``` that can be found in the [package](https://cran.r-project.org/web/packages/learnPopGen/index.html) ```learnPopGen```. The function was modified to include a mutation argument to add new alleles. In addition of plotting the change in the alleles there is a plot of the alleles frequencies and of the homozygozyty and heterozygozyty.
 
 ![frequencies](media/image2.png)

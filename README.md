@@ -1,9 +1,11 @@
 Mutation-Drift Equilibrium Simulator
 ================
 Ramses A. Rosales-Garcia
-2024 June 04
+2024 June 06
 
 ![simulator](media/image1.png)
+
+[![](https://img.shields.io/badge/Shiny.io-Mutation--Drift%20Simutator-blue)](https://ramsesrosales.shinyapps.io/mutation_drift_simulator/)
 
 This is a small script that simulates the process of mutation drift in
 and constant size diploid population, the simulation plot was a
